@@ -1,7 +1,6 @@
-### Hi there 👋
-![TV_Twine_Spot_2](https://user-images.githubusercontent.com/15316862/147994575-a8330b1e-c7b1-4332-9ba2-935051e0de17.gif)
+### hi there, i'm Ronel 👋 [portfolio](https://mojojoj0.github.io/)
 
-
+![last-star](https://user-images.githubusercontent.com/15316862/151727032-d01b0e66-0bb1-4a28-a900-4a9c879f05ef.gif)
 
 <!--
 **MOJOJOJ0/MOJOJOJ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
