@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ronel.sajan&cover_image=true&theme=default&bar_color=c392c2&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ronel.sajan&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ronel.sajan&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ronel.sajan&redirect=true)
