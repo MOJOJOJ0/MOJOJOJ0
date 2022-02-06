@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ronel.sajan&cover_image=true&theme=default&bar_color=c392c2&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ronel.sajan&redirect=true)
