@@ -1,4 +1,4 @@
-### hi there, i'm Ronel 👋 [portfolio](https://mojojoj0.github.io/)
+### hi there, i'm Ronel 👋 [ePortfolio](https://mojojoj0.github.io/)
 
 ![last-star](https://user-images.githubusercontent.com/15316862/151727032-d01b0e66-0bb1-4a28-a900-4a9c879f05ef.gif)
 
