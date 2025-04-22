@@ -1,6 +1,5 @@
 ### hi there, i'm Ronel 👋 [ePortfolio](https://mojojoj0.github.io/)
 
-![last-star](https://user-images.githubusercontent.com/15316862/151727032-d01b0e66-0bb1-4a28-a900-4a9c879f05ef.gif)
 ![guts](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR1NmxuMGpqbGttdjlzMW9ycWNhNHNxaGNlMHYwZXVzN2FyOTE2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K0JrA2VbkFy2A/giphy.gif)
 
 <!--
