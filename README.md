@@ -1,7 +1,6 @@
 ### hi there, i'm Ronel 👋 [ePortfolio](https://mojojoj0.github.io/)
 
-![guts](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR1NmxuMGpqbGttdjlzMW9ycWNhNHNxaGNlMHYwZXVzN2FyOTE2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K0JrA2VbkFy2A/giphy.gif)
-
+![stray](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif)
 <!--
 **MOJOJOJ0/MOJOJOJ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
