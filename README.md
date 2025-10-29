@@ -1,6 +1,6 @@
 ### hi there, i'm Ronel 👋 [ePortfolio](https://mojojoj0.github.io/)
 
-![stray](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif)
+![stray](https://media1.tenor.com/m/Y10r2fAk3rUAAAAC/stray-ps5.gif)
 <!--
 **MOJOJOJ0/MOJOJOJ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
